@@ -1,0 +1,122 @@
+{
+    "522409": {
+        "article_date_timestamp": 1626679771.0,
+        "article_title": "Систему аутентификации Windows Hello можно обмануть с помощью инфракрасного изображения",
+        "article_url": "https://www.securitylab.ru/news/522409.php",
+        "article_desc": "Для эксплуатации проблемы достаточно инфракрасного кадра человека и по крайней мере один RGB-кадр с любым изображением."
+    },
+    "522401": {
+        "article_date_timestamp": 1626675642.0,
+        "article_title": "Шпионское ПО Pegasus использовалось для слежки за сотнями журналистов, политиков и активистов",
+        "article_url": "https://www.securitylab.ru/news/522401.php",
+        "article_desc": "В распоряжении специалистов оказался список, включающий более 50 тыс. телефонных номеров из базы приложения Pegasus."
+    },
+    "522398": {
+        "article_date_timestamp": 1626673223.0,
+        "article_title": "Практический воркшоп: Деплоим кластер Kubernetes в Yandex Cloud одной командой",
+        "article_url": "https://www.securitylab.ru/news/522398.php",
+        "article_desc": ""
+    },
+    "522397": {
+        "article_date_timestamp": 1626671398.0,
+        "article_title": "США нуждаются в помощи Японии и Кореи для конкуренции с китайскими технологиями",
+        "article_url": "https://www.securitylab.ru/news/522397.php",
+        "article_desc": "Бывший гендиректор Google призвал страны к сотрудничеству в области ИИ, чипов и квантовых вычислений."
+    },
+    "522396": {
+        "article_date_timestamp": 1626668573.0,
+        "article_title": "«Защищенный от цензуры» проект Freedom Phone оказался дешевым китайским смартфоном",
+        "article_url": "https://www.securitylab.ru/news/522396.php",
+        "article_desc": "Специалисты назвали смартфон кошмаром в плане кибербезопасности."
+    },
+    "522395": {
+        "article_date_timestamp": 1626664141.0,
+        "article_title": "Королева Великобритании Елизавета II усилила защиту от хакеров",
+        "article_url": "https://www.securitylab.ru/news/522395.php",
+        "article_desc": ""
+    },
+    "522394": {
+        "article_date_timestamp": 1626600999.0,
+        "article_title": "Уязвимость в Cloudflare CDN поставила под угрозу взлома почти 13% сайтов в интернете",
+        "article_url": "https://www.securitylab.ru/news/522394.php",
+        "article_desc": "Проблема затрагивает CDNJS – сеть доставки контента, предназначенной для ускорения доставки JavaScript-библиотек."
+    },
+    "522393": {
+        "article_date_timestamp": 1626587005.0,
+        "article_title": "Впервые в свободную продажу поступает квантовый процессор",
+        "article_url": "https://www.securitylab.ru/news/522393.php",
+        "article_desc": ". Доступность квантовых процессоров  позволит значительно ускорить внедрение квантовых вычислений."
+    },
+    "522392": {
+        "article_date_timestamp": 1626508931.0,
+        "article_title": "Агентства США предупредили о продолжающихся попытках китайских хакеров украсть секретные данные",
+        "article_url": "https://www.securitylab.ru/news/522392.php",
+        "article_desc": "Операции кибершпионажа поддерживают долгосрочные цели экономического и военного развития Китая."
+    },
+    "522391": {
+        "article_date_timestamp": 1626500571.0,
+        "article_title": "Геймер выложил на форуме секретные чертежи британского танка",
+        "article_url": "https://www.securitylab.ru/news/522391.php",
+        "article_desc": "Таким образом мужчина хотел доказать, что машину неправильно смоделировали художники компьютерной игры War Thunder."
+    },
+    "522390": {
+        "article_date_timestamp": 1626498685.0,
+        "article_title": "Anonymous запустили \"собачью\" криптовалюту",
+        "article_url": "https://www.securitylab.ru/news/522390.php",
+        "article_desc": "Хакерская группа Anonymous опубликовала видео, в котором заявила, что будет вести «войну мемов» против Илона Маска и «криптовалютную войну» против Китая с помощью нового токена Anon Inu."
+    },
+    "522389": {
+        "article_date_timestamp": 1626443458.0,
+        "article_title": "Операторы банковского трояна Toddler атаковали клиентов 60 банков по всей Европе",
+        "article_url": "https://www.securitylab.ru/news/522389.php",
+        "article_desc": "Злоумышленники взломали ряд легитимных web-сайтов с целью распространения вредоносного ПО."
+    },
+    "522414": {
+        "article_date_timestamp": 1626689923.0,
+        "article_title": "Группировка HelloKitty атакует устройства SonicWall с устаревшей прошивкой",
+        "article_url": "https://www.securitylab.ru/news/522414.php",
+        "article_desc": "В ходе атак хакеры эксплуатируют уязвимость, которая была исправлена в более новых версиях прошивки."
+    },
+    "522419": {
+        "article_date_timestamp": 1626737886.0,
+        "article_title": "Amazon закрыл аккаунты израильской NSO Group",
+        "article_url": "https://www.securitylab.ru/news/522419.php",
+        "article_desc": "NSO Group пользовалась сервисом Amazon CloudFront для передачи контента."
+    },
+    "522418": {
+        "article_date_timestamp": 1626723181.0,
+        "article_title": "Четверо граждан Китая обвиняются в кибератаках на компании, университеты и государственные учреждения США и других стран",
+        "article_url": "https://www.securitylab.ru/news/522418.php",
+        "article_desc": "Отрасли, подвергшиеся кибернападениям, включали в себя авиацию, оборонную индустрию, образование, государственное управление, здравоохранение, биофармацевтику, морское дело и другие."
+    },
+    "522417": {
+        "article_date_timestamp": 1626701347.0,
+        "article_title": "В результате кибератаки на Счетную палату Молдовы уничтожены публичные аудиты",
+        "article_url": "https://www.securitylab.ru/news/522417.php",
+        "article_desc": "В настоящее время выясняется, было ли нападение совершено с целью вымогательства или с целью нарушить работу госоргана."
+    },
+    "522416": {
+        "article_date_timestamp": 1626699101.0,
+        "article_title": "Власти Великобритании обвинили китайские группировки в атаках на Microsoft Exchange",
+        "article_url": "https://www.securitylab.ru/news/522416.php",
+        "article_desc": "За деятельностью APT40 и APT31 предположительно стоит Министерство государственной безопасности Китая."
+    },
+    "522415": {
+        "article_date_timestamp": 1626696148.0,
+        "article_title": "Эксперты сообщили о неисправленной уязвимости в Windows Print Spooler",
+        "article_url": "https://www.securitylab.ru/news/522415.php",
+        "article_desc": "Пока неясно, существует ли связь между  уязвимостью и проблемой CVE-2021-34481, о которой на прошлой неделе сообщила Microsoft."
+    },
+    "522413": {
+        "article_date_timestamp": 1626683846.0,
+        "article_title": "Хакеры проникли в сеть Министерства дорог и городского развития Ирана задолго до кибератаки",
+        "article_url": "https://www.securitylab.ru/news/522413.php",
+        "article_desc": "Злоумышленники внесли изменения в протоколы загрузки и поменяли пароли пользователей."
+    },
+    "522411": {
+        "article_date_timestamp": 1626681695.0,
+        "article_title": "Apple без лишнего шума исправила RCE-уязвимость в iOS",
+        "article_url": "https://www.securitylab.ru/news/522411.php",
+        "article_desc": "Специалисты ZecOps обнаружили новую последовательность символов, которая при добавлении к имени сети Wi-Fi может привести к более серьезным последствиям, нежели простой сбой."
+    }
+}
